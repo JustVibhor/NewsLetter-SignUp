@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "newsletter-signup",
+=======
+  "name": "ejs-challenge",
+>>>>>>> 19cd3c6 (Update js and ejs files)
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,8 +13,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "body-parser": "^1.19.1",
     "express": "^4.17.2",
     "request": "^2.88.2"
+=======
+    "body-parser": "^1.18.3",
+    "ejs": "^2.7.4",
+    "express": "^4.16.3",
+    "lodash": "^4.17.11",
+    "nodemon": "^2.0.22"
+>>>>>>> 19cd3c6 (Update js and ejs files)
   }
 }
